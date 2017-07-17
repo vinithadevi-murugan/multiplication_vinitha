@@ -1,6 +1,6 @@
 {
   "name": "multiplication_vinitha",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Multiply two numbers",
   "main": "dist/index.js",
   "types":"dist/index.d.ts",
