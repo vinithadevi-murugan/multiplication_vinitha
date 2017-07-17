@@ -1,0 +1,28 @@
+{
+  "name": "multiplication_vinitha",
+  "version": "1.0.0",
+  "description": "Multiply two numbers",
+  "main": "dist/index.js",
+  "types":"dist/index.d.ts",
+  "scripts": {
+    "prepublish": "npm run build",
+    "build":"tsc",
+    "test": "multiplay"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinithadevi-murugan/multiplication_vinitha.git"
+  },
+  "keywords": [
+    "multiplay"
+  ],
+  "author": "vinithadevimurugan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinithadevi-murugan/multiplication_vinitha/issues"
+  },
+  "homepage": "https://github.com/vinithadevi-murugan/multiplication_vinitha#readme",
+  "devDependencies": {
+    "typescript": "^2.4.1"
+  }
+}
